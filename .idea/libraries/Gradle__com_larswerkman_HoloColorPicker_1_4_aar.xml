@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.larswerkman:HoloColorPicker:1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b854ae1ce232802212f427c985d2c3f/jetified-HoloColorPicker-1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b854ae1ce232802212f427c985d2c3f/jetified-HoloColorPicker-1.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.larswerkman/HoloColorPicker/1.4/43a68d7ae8302357fed894a52523896513b6619d/HoloColorPicker-1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.larswerkman/HoloColorPicker/1.4/f691fb545879528e50806e5d6981b6b8c96e6382/HoloColorPicker-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

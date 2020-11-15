@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-ldpi_vector_gallery.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-ldpi/vector_gallery.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xhdpi_vector_whatsapp.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xhdpi/vector_whatsapp.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_vector_file_manager.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_file_manager.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-hdpi_vector_file_manager.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-hdpi/vector_file_manager.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-ldpi_vector_file_manager.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-ldpi/vector_file_manager.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-ldpi_vector_share.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-ldpi/vector_share.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-mdpi_vector_file_manager.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-mdpi/vector_file_manager.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxhdpi_vector_menu.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxhdpi/vector_menu.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_vector_cancel.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_cancel.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_logo_final.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-anydpi-v21/logo_final.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-ldpi_vector_menu.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-ldpi/vector_menu.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_vector_file_manager.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxxhdpi/vector_file_manager.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxhdpi_vector_save_storage.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxhdpi/vector_save_storage.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-mdpi_logo_final_background.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-mdpi/logo_final_background.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable_bg_popup.9.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/drawable/bg_popup.9.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/layout_test.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/layout/test.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-hdpi_vector_whatsapp.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-hdpi/vector_whatsapp.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-hdpi_vector_menu.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-hdpi/vector_menu.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-hdpi_vector_share.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-hdpi/vector_share.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-hdpi_vector_cancel.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-hdpi/vector_cancel.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-mdpi_vector_gallery.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-mdpi/vector_gallery.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xhdpi_vector_file_manager.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xhdpi/vector_file_manager.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable_ic_delete_red_48dp.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/drawable/ic_delete_red_48dp.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-hdpi_vector_gallery.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-hdpi/vector_gallery.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_vector_save_storage.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxxhdpi/vector_save_storage.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_logo_final_background.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-xxhdpi/logo_final_background.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxhdpi_vector_file_manager.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxhdpi/vector_file_manager.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-ldpi_vector_whatsapp.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-ldpi/vector_whatsapp.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxhdpi_vector_whatsapp.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxhdpi/vector_whatsapp.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-hdpi_vector_save.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-hdpi/vector_save.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_vector_save.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_save.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-hdpi_logo_final.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-hdpi/logo_final.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_vector_whatsapp.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxxhdpi/vector_whatsapp.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/layout_popup_sketch_stroke.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/layout/popup_sketch_stroke.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_logo_final.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxxhdpi/logo_final.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_vector_menu.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxxhdpi/vector_menu.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_vector_whatsapp.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-anydpi-v24/vector_whatsapp.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-xhdpi_logo_final_background.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-xhdpi/logo_final_background.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-hdpi_vector_save_storage.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-hdpi/vector_save_storage.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_vector_share.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_share.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxhdpi_vector_save.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxhdpi/vector_save.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-ldpi_vector_save_storage.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-ldpi/vector_save_storage.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxhdpi_vector_share.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxhdpi/vector_share.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-ldpi_logo_final.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-ldpi/logo_final.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable_ic_undo_black_24dp.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/drawable/ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/xml_provider_path.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/xml/provider_path.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxhdpi_vector_gallery.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxhdpi/vector_gallery.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-hdpi_logo_final_background.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-hdpi/logo_final_background.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_vector_cancel.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxxhdpi/vector_cancel.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xhdpi_vector_share.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xhdpi/vector_share.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_logo_final_background.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-xxxhdpi/logo_final_background.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-mdpi_vector_save_storage.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-mdpi/vector_save_storage.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_vector_save.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxxhdpi/vector_save.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xhdpi_vector_gallery.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xhdpi/vector_gallery.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-mdpi_vector_menu.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-mdpi/vector_menu.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-mdpi_vector_share.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-mdpi/vector_share.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_vector_menu.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_menu.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxhdpi_vector_cancel.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxhdpi/vector_cancel.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-mdpi_logo_final.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-mdpi/logo_final.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable_circle.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-mdpi_vector_save.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-mdpi/vector_save.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-mdpi_vector_cancel.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-mdpi/vector_cancel.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-ldpi_vector_save.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-ldpi/vector_save.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-mdpi_vector_whatsapp.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-mdpi/vector_whatsapp.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo_final.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xhdpi/logo_final.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xhdpi_vector_save_storage.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xhdpi/vector_save_storage.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_vector_gallery.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxxhdpi/vector_gallery.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_vector_gallery.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_gallery.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xhdpi_vector_cancel.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xhdpi/vector_cancel.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xhdpi_vector_save.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xhdpi/vector_save.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable_ic_eraser_black_24dp.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/drawable/ic_eraser_black_24dp.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xhdpi_vector_menu.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xhdpi/vector_menu.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/layout_fragment_sketch.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/layout/fragment_sketch.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxhdpi_logo_final.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxhdpi/logo_final.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable_ic_brush_black_24dp.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/drawable/ic_brush_black_24dp.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_vector_save_storage.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vector_save_storage.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable_ic_redo_black_24dp.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/drawable/ic_redo_black_24dp.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-ldpi_vector_cancel.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-ldpi/vector_cancel.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_vector_share.png.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/generated/res/pngs/debug/drawable-xxxhdpi/vector_share.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/layout_popup_sketch_eraser.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/layout/popup_sketch_eraser.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/build/intermediates/res/merged/debug/menu_action_menu.xml.flat",
+        "source": "/home/shivam/AndroidStudioProjects/SimpleSketch/app/src/main/res/menu/action_menu.xml"
+    }
+]
