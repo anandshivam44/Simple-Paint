@@ -32,10 +32,10 @@ width="200"
     <img src="https://play-lh.googleusercontent.com/Z30cMcFyM-P6IcWbpVtqi20y5vYXDO1D3MYT3gh9Hdjwr4OJj0Tj0bD7RA7ZGBdHcA=w720-h310-rw"
 width="200"
     hspace="10" vspace="1">
+    <div class="clearfix"></div>
     <img src="https://play-lh.googleusercontent.com/bokdqYzJr0rYUp0t2u5w5TWvSfhmk95Yxcg7zCLUxtr8QYcBO8XAuXsJZrbUCvP2SmZ6=w720-h310-rw"
 width="200"
     hspace="10" vspace="1">
-    <div class="clearfix"></div>
     <img src="https://play-lh.googleusercontent.com/_2I_xviVuMm8pajqapyBst5u5kQWjsTvUuMjdkRN_axt3eP6WU7jqca3HyVA29dfcR6s=w720-h310-rw"
     hspace="10" vspace="1">
 
